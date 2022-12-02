@@ -29,4 +29,4 @@ Output: 3
 - 1 <= nums[i] <= n
 - All the integers in nums appear only **once** except for **precisely one integer** which appears **two or more** times.
 
-[more detail](https://leetcode.com/problems/two-sum/description/)
+[more detail](https://leetcode.com/problems/find-the-duplicate-number/description/)
