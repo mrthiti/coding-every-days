@@ -4,7 +4,7 @@ import {
   prepareExpectTestCaseText,
 } from "../utils/testUtils.js"
 
-describe("Find the Duplicate Number", () => {
+describe("Add Two Numbers", () => {
   const prepareTestCase = (arrL1, arrL2, arrExpect) => {
     return {
       inputs: {
