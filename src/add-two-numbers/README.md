@@ -1,4 +1,4 @@
-# Find the Duplicate Number
+# Add Two Numbers
 
 [The solution in index.js file](./index.js)
 
