@@ -27,5 +27,6 @@ You can click one of list below go to the solution to solve coding challenge.
 - [Add Two Numbers](src/add-two-numbers/)
 - [Sort an Array](src/sort-an-array/)
 - [Median of Two Sorted Arrays](src/median-of-two-sorted-arrays/)
+- [Duplicate Zeros](src/duplicate-zeros/)
 
 Special Thanks to [https://leetcode.com/](https://leetcode.com/)
