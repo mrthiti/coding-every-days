@@ -29,5 +29,6 @@ You can click one of list below go to the solution to solve coding challenge.
 - [Median of Two Sorted Arrays](src/median-of-two-sorted-arrays/)
 - [Duplicate Zeros](src/duplicate-zeros/)
 - [Longest Substring Without Repeating Characters](src/longest-substring-without-repeating-characters/)
+- [Longest Palindromic Substring](src/longest-palindromic-substring/)
 
 Special Thanks to [https://leetcode.com/](https://leetcode.com/)
